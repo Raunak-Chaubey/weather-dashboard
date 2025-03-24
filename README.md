@@ -14,7 +14,7 @@ A premium, responsive weather app built with React and OpenWeather API.
 - React, Vite
 
 ## Live Demo
-[Check it out here](https://weatherdashboard22.netlify.app/) *(replace with your Netlify URL)*
+[Check it out here](https://weatherdashboard22.netlify.app/) 
 
 ## Installation
 1. Clone the repo: `git clone https://github.com/Raunak-Chaubey/weather-dashboard.git`
